@@ -60,7 +60,7 @@
     console.log({ redFruits: getFruitsByColor('red') }); // ['manzana', 'fresa']
     console.log({ yellowFruits: getFruitsByColor('yellow') }); // ['piña', 'banana']
     console.log({ purpleFruits: getFruitsByColor('purple') }); // ['moras', 'uvas']
-    // console.log({ pinkFruits: getFruitsByColor('pink') }); // Error: the color must be: red, yellow, purple
+    console.log({ pinkFruits: getFruitsByColor('pink') }); // Error: the color must be: red, yellow, purple
 
     // workingSteps
     console.log({ workingSteps: workingSteps() }); // Cambiar los valores de la línea 31 y esperar los resultados
