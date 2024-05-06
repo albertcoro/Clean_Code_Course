@@ -4,7 +4,7 @@
 
 This project is the result of following a Clean Code course (check out the <a href="https://github.com/Klerith/clean-course">original branch</a>).
 
-<h3>What the motivation behind id?</h3>
+<h3>What the motivation behind it?</h3>
 
 As formation in a new company, I had to go through this course to refresh the Clean Code ideas and best practices, that aside I was really eager to 
 do this course as it has let me update my learnings about Clean Code and add some new knowledge on top.
