@@ -1,19 +1,18 @@
-# Clean Code Course
+# ✨ Clean Code Course (Completed) 🚀
 
-<h3>What is this project?</h3>
+This repository is the result of the completition of the Clean Course by Fernando Herrera (https://nexusgeographics.udemy.com/course/solid-clean) 
 
-This project is the result of following a Clean Code course (check out the <a href="https://github.com/Klerith/clean-course">original branch</a>).
+## About
 
-<h3>What the motivation behind it?</h3>
+This repository showcases some of the things worked on the course:
 
-As formation in a new company, I had to go through this course to refresh the Clean Code ideas and best practices, that aside I was really eager to 
-do this course as it has let me update my learnings about Clean Code and add some new knowledge on top.
+ - Code Smells: Explore a collection of common code smells and understand their impact on code maintainability and readability.
+ - Refactoring Exercises: Step-by-step refactoring exercises to transform problematic code into more elegant and efficient solutions.
+ - Clean Code Principles: Hands-on examples illustrating clean code principles such as DRY, KISS, YAGNI, and more.
+ - SOLID Principles: In-depth examples of each SOLID principle (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) applied in TypeScript.
+ - TypeScript Best Practices: Leverage TypeScript features to write type-safe and scalable code that aligns with clean code standards.
 
-<h3>Conclusions</h3>
-
-As said, I have learned a lot and refreshed a lot of information that will become very useful during my programming career.
-
-<h3>How do I execute it?</h3>
+## Execution
 
 Clone the project and then:
 
