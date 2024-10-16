@@ -1,4 +1,4 @@
-# Clean Course
+# Clean Code Course
 
 <h3>What is this project?</h3>
 
